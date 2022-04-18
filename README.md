@@ -16,10 +16,10 @@ This is a website designed to search for books of any kind! You can create an ac
 
 # Table of Contents
 
-[Description](#description)
-[Installation](#installation)
-[Screenshot](#screenshot)
-[Deployed-Application](#deployed-application)
+-[Description](#description)
+-[Installation](#installation)
+-[Screenshot](#screenshot)
+-[Deployed-Application](#deployed-application)
 
 # Installation
 
