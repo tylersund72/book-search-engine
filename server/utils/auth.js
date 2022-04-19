@@ -29,9 +29,7 @@ module.exports = {
       // return res.status(400).json({ message: "invalid token!" });
     }
 
-    // send to next endpoint
-    next();
-    // return req;
+    return req;
   },
   signToken: function ({ username, email, _id }) {
     const payload = { username, email, _id };
